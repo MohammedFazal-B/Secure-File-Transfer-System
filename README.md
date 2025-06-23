@@ -34,7 +34,7 @@ This repository contains a secure file transfer system implemented in Python, pr
 
 1. Clone the repository to your local machine.
    ```bash
-      git clone  <link>
+      git clone  <https://github.com/MohammedFazal-B/Secure-File-Transfer-System.git>
    ```
 
 2. Install the required dependencies.
