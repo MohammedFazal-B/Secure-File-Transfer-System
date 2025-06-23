@@ -1,7 +1,6 @@
 '''
-22AIE203 - DSA2 
 Merkle Tree Project
-By Amritha and Saran
+By Mohammed Fazal
 '''
 import os
 from hashlib import sha256
